@@ -10,7 +10,7 @@ has_toc: false
 # SPI blocking
 
 This example application demonstrates how to use the SPI peripheral to transmit and receive a block of data in a blocking manner.
-It was used the SPI2 and you need to shunt the MISO and MIMO pins. Which are the RG0 and RG7.
+It was used the SPI2 and you need to shunt the MISO and MOSI pins. Which are the RG0 and RG7.
 
 ## Description
 
