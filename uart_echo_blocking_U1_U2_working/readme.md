@@ -10,6 +10,7 @@ has_toc: false
 # UART echo blocking
 
 This example application demonstrates how to use the UART peripheral to transfer a block of data in a blocking manner.
+This works with a direct connection to the RX, TX and GND pins on Uart 1 and Uart 2. You need that USB connection directly to the pins, in order for the virtual com port appear on your PC.
 
 ## Description
 
