@@ -1,8 +1,8 @@
 # PIC32MZ-EF
 ## PIC32MZ2048EFM100
+Hardware used: [CURIOSITY PIC32MZEF DEVELOPMENT BOARD](https://www.microchip.com/en-us/development-tool/DM320104)
 
-
-In this repository you will find the projects I'm working on, just basic stuff. There are based on Harmony 3 repository, yet, they do not need it in order to work.
+In this repository you will find the projects I'm working on, just basic stuff. These are based on Harmony 3 repository, yet, they do not need it in order to work.
 
 
 You will find projects of:
