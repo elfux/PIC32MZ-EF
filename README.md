@@ -1,13 +1,16 @@
-# PIC32MZ-EF
+-------------------------------------------------------------------------------------------------------------------
+ ----- PIC32MZ-EF  ----- 
+-------------------------------------------------------------------------------------------------------------------
+
 ## PIC32MZ2048EFM100
-### Hardware:
+### Hardware
 
 [CURIOSITY PIC32MZEF DEVELOPMENT BOARD](https://www.microchip.com/en-us/development-tool/DM320104)
 
 [Flash 2 Click - SSTVSST26VF064B](https://www.mikroe.com/flash-2-click)
 
 
-### Documents: 
+### Documents
 
 [PIC32MZ EF Curiosity Development Board User’s Guide](https://ww1.microchip.com/downloads/en/DeviceDoc/70005282B.pdf)
 
@@ -16,7 +19,7 @@
 [Flash 2 Click - Datasheet](https://download.mikroe.com/documents/datasheets/20005119G.pdf)
 
 
-### Software:
+### Software
 
 [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
 
@@ -28,8 +31,10 @@ In this repository you will find the projects I'm working on, just basic stuff. 
 
 
 -------------------------------------------------------------------------------------------------------------------
-# Projects
+ ----- Projects  ----- 
 -------------------------------------------------------------------------------------------------------------------
+
+
 ## UART Echo blocking
 Grab a USB cable and remove the it's isolation in one end, ignore the Vcc cable, connect the ground to GND pin, the Tx on Tx pin (RD15) and Rx on Rx pin (RD10), for UART1.
 
