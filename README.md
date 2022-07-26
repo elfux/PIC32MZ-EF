@@ -26,6 +26,10 @@
 
 In this repository you will find the projects I'm working on, just basic stuff. These are based on Harmony 3 repository, yet, they do not need it in order to work.
 
+
+-------------------------------------------------------------------------------------------------------------------
+# Projects
+-------------------------------------------------------------------------------------------------------------------
 ## UART Echo blocking
 Grab a USB cable and remove the it's isolation in one end, ignore the Vcc cable, connect the ground to GND pin, the Tx on Tx pin (RD15) and Rx on Rx pin (RD10), for UART1.
 
