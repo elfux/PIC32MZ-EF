@@ -1,20 +1,28 @@
 # PIC32MZ-EF
 ## PIC32MZ2048EFM100
-Hardware used: [CURIOSITY PIC32MZEF DEVELOPMENT BOARD](https://www.microchip.com/en-us/development-tool/DM320104)
+### Hardware:
 
-User guide: [PIC32MZ EF Curiosity Development Board User’s Guide](https://ww1.microchip.com/downloads/en/DeviceDoc/70005282B.pdf)
+Board - [CURIOSITY PIC32MZEF DEVELOPMENT BOARD](https://www.microchip.com/en-us/development-tool/DM320104)
+Flash memory - SSTVSST26VF064B: [Flash 2 Click](https://www.mikroe.com/flash-2-click)
 
-Datasheet: [PIC32MZ Embedded Connectivity with Floating Point Unit (EF) Family](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/DataSheets/PIC32MZ-Embedded-Connectivity-with-Floating-Point-Unit-Family-Data-Sheet-DS60001320H.pdf)
+### Documents: 
+
+[PIC32MZ EF Curiosity Development Board User’s Guide](https://ww1.microchip.com/downloads/en/DeviceDoc/70005282B.pdf)
+
+[PIC32MZ Embedded Connectivity with Floating Point Unit (EF) Family](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/DataSheets/PIC32MZ-Embedded-Connectivity-with-Floating-Point-Unit-Family-Data-Sheet-DS60001320H.pdf)
+
+[Flash 2 Click - Datasheet](https://download.mikroe.com/documents/datasheets/20005119G.pdf)
 
 
-Tools Used: [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
+### Software:
 
-Compiler: [XC32 2.15](https://www.microchip.com/en-us/tools-resources/archives/mplab-ecosystem)
+[MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
+
+[XC32 2.15](https://www.microchip.com/en-us/tools-resources/archives/mplab-ecosystem)
+
+
 
 In this repository you will find the projects I'm working on, just basic stuff. These are based on Harmony 3 repository, yet, they do not need it in order to work.
-
-
-You will find projects of:
 
 ## UART Echo blocking
 Grab a USB cable and remove the it's isolation in one end, ignore the Vcc cable, connect the ground to GND pin, the Tx on Tx pin (RD15) and Rx on Rx pin (RD10), for UART1.
@@ -32,5 +40,6 @@ There is a need to shunt the MISO and MOSI pins on SPI2.
 ## DMAC Memory Transfer
 [DMAC Memory Transfer](https://github.com/elfux/PIC32MZ-EF/tree/main/dmac_memor)
 
-## SPI + DMA + Flash 2 Click
+## SPI2 + Flash 2 Click
+[SPI2 with SSTVSST26VF064B](https://github.com/elfux/PIC32MZ-EF/tree/main/spi_sst26_rw_test)
 
