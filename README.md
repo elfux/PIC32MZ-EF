@@ -2,8 +2,10 @@
 ## PIC32MZ2048EFM100
 ### Hardware:
 
-Board - [CURIOSITY PIC32MZEF DEVELOPMENT BOARD](https://www.microchip.com/en-us/development-tool/DM320104)
-Flash memory - SSTVSST26VF064B: [Flash 2 Click](https://www.mikroe.com/flash-2-click)
+[CURIOSITY PIC32MZEF DEVELOPMENT BOARD](https://www.microchip.com/en-us/development-tool/DM320104)
+
+[Flash 2 Click - SSTVSST26VF064B](https://www.mikroe.com/flash-2-click)
+
 
 ### Documents: 
 
