@@ -35,22 +35,18 @@ In this repository you will find the projects I'm working on, just basic stuff. 
 -------------------------------------------------------------------------------------------------------------------
 
 
-## UART Echo blocking
-Grab a USB cable and remove the it's isolation in one end, ignore the Vcc cable, connect the ground to GND pin, the Tx on Tx pin (RD15) and Rx on Rx pin (RD10), for UART1.
+### UART Echo blocking
+[UART1 or UART2 - Echo Individualy](https://github.com/elfux/PIC32MZ-EF/tree/main/uart_echo_blocking_U1_U2_working) - Grab a USB cable and remove the it's isolation in one end, ignore the Vcc cable, connect the ground to GND pin, the Tx on Tx pin (RD15) and Rx on Rx pin (RD10), for UART1. 
 
-[UART1 or UART2 - Echo Individualy](https://github.com/elfux/PIC32MZ-EF/tree/main/uart_echo_blocking_U1_U2_working)
+### SPI Self Loop
+[SPI2 Self Loopback](https://github.com/elfux/PIC32MZ-EF/tree/main/spi_self_loopback_blocking) - There is a need to shunt the MISO and MOSI pins on SPI2.
 
-## SPI Self Loop
-There is a need to shunt the MISO and MOSI pins on SPI2.
-
-[SPI2 Self Loopback](https://github.com/elfux/PIC32MZ-EF/tree/main/spi_self_loopback_blocking)
-
-## NVM Flash Read Write
+### NVM Flash Read Write
 [NVM Flash Read-Write](https://github.com/elfux/PIC32MZ-EF/tree/main/flash_read_write)
 
-## DMAC Memory Transfer
+### DMAC Memory Transfer
 [DMAC Memory Transfer](https://github.com/elfux/PIC32MZ-EF/tree/main/dmac_memor)
 
-## SPI2 + Flash 2 Click
+### SPI2 + Flash 2 Click
 [SPI2 with SSTVSST26VF064B](https://github.com/elfux/PIC32MZ-EF/tree/main/spi_sst26_rw_test)
 
