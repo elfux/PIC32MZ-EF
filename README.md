@@ -46,7 +46,7 @@ In this repository you will find the projects I'm working on, just basic stuff. 
 [NVM Flash Read-Write](https://github.com/elfux/PIC32MZ-EF/tree/main/flash_read_write)
 
 ### DMAC Memory Transfer
-[DMAC Memory Transfer](https://github.com/elfux/PIC32MZ-EF/tree/main/dmac_memor)
+[DMAC Memory Transfer](https://github.com/elfux/PIC32MZ-EF/tree/main/dmac_memory_transfer)
 
 ### SPI2 + Flash 2 Click
 [SPI2 with SSTVSST26VF064B](https://github.com/elfux/PIC32MZ-EF/tree/main/spi_sst26_rw_test)
